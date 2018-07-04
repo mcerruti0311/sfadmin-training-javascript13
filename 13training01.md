@@ -6,22 +6,23 @@
   <body>
     <h2>Introducing CSS3</h2>
 
-> What You’ll Learn in This Hour:
-> <ul>
-<li>Some of the new abilities CSS3 brings to CSS</li>
-> <li>Using vendor-specific prefixes and extensions</li>
-> <li>Cross-browser setting of CSS3 properties</li>
-> <li>Setting CSS3 properties efficiently in JavaScript</li>
+    What You’ll Learn in This Hour:
+    <ul>
+    <li>Some of the new abilities CSS3 brings to CSS</li>
+    <li>Using vendor-specific prefixes and extensions</li>
+    <li>Cross-browser setting of CSS3 properties</li>
+    <li>Setting CSS3 properties efficiently in JavaScript</li>
+    </ul>
 
-Using CSS3 you can easily achieve plenty of cool new effects without having to
-use lots of JavaScript code and/or external graphics applications such as
-Photoshop. You can create rounded borders, add shadows to boxes, use an image as
- a border, and more. CSS3 contains several new background properties that give
- you more control over background elements, including multiple background
- images, while CSS3 gradients let you display smooth transitions between two or
- more specified colors. New text features include text shadows and word wrap, as
-  well as easy use of web fonts. And CSS3 lets you easily build really cool
-  transitions, transformations, and animations.
+    Using CSS3 you can easily achieve plenty of cool new effects without having to
+    use lots of JavaScript code and/or external graphics applications such as
+    Photoshop. You can create rounded borders, add shadows to boxes, use an image as
+    a border, and more. CSS3 contains several new background properties that give
+    you more control over background elements, including multiple background
+    images, while CSS3 gradients let you display smooth transitions between two or
+    more specified colors. New text features include text shadows and word wrap, as
+    well as easy use of web fonts. And CSS3 lets you easily build really cool
+    transitions, transformations, and animations.
 
 In this hour you’ll get a flavor of what CSS3 can do for your web pages, and you’ll see how to effectively control CSS3’s capabilities using JavaScript.
     <h2>Vendor Specific Properties and Prefixes</h2>
